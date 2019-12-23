@@ -1,0 +1,23 @@
+body{
+		background: linear-gradient(to right, #27ae60, #2980b9);
+		background-repeat: no repeat;
+}
+
+#titre{
+		font-family: franklin gothic;
+		font-weight: bold;
+		font-size: 50px;
+		color: white;
+}
+
+#block1	{
+	position: relative;
+	padding: 100px;
+	top: 75px;
+	border-radius: 20px;
+	display: block;
+	height: 100px;
+	width: 500px;
+	background: linear-gradient(to right, #34495e, #2c3e50);
+	box-shadow: 10px 10px 10px #2c3e50;
+}

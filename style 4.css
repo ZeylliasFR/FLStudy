@@ -1,0 +1,185 @@
+#onglet1{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: white;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 50px;
+			font-family: segoe ui;
+}		
+
+
+#onglet1:hover{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: #e67e22;
+			background-color:transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 50px;
+			font-family: segoe ui;
+			transition: 0.5s;
+}		
+
+#onglet2{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: white;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 99px;
+			font-family: segoe ui;
+}	
+
+#onglet2:hover{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: #e67e22;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 99px;
+			font-family: segoe ui;
+			transition: 0.5s;
+}	
+
+#onglet3{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: white;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 140px;
+			font-family: segoe ui;
+}	
+
+#onglet3:hover{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: #e67e22;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 140px;
+			font-family: segoe ui;
+			transition: 0.5s;
+}	
+	
+#onglet4{
+			position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color: white;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 180px;
+			font-family: segoe ui;
+}	
+
+#onglet4:hover{
+		position: relative;
+			padding: 15px 20px;
+			border-radius: 16px;
+			color:#e67e22;
+			background-color: transparent;
+			border-bottom: 20px;
+			border: none;
+			cursor: pointer;
+			font-size: 20px;
+			top: -30px;
+			left: 180px;
+			font-family: segoe ui;
+			transition: 0.5s;
+}	
+
+#bande_horizontale{
+padding: 0px;
+margin: -40px;
+border: none;
+display: block;
+height: 75px;
+background-image:linear-gradient(to right, #2c3e50, black);
+box-shadow: 0 5px 10px;
+}
+
+#fruit	{
+		position: relative;
+		top: -140px;
+}
+
+#titre{
+		position: relative;
+		top: -75px;
+		font-family: verdana;
+		color: Black;
+		font-weight: bold;
+		font-size: 50px;
+}
+
+#block{
+		display: block;
+		background: white;
+		margin: 80px;
+		width: 1400px;
+		height: 500px;
+		position: absolute;
+		box-shadow: 0 0 10px;
+}
+
+#p1{
+		font-family: verdana;
+		color: black;
+}
+
+#lescours{
+		color: #4834d4;
+		font-family: fira sans;
+		font-weight: bold;
+		position: relative;
+		left: 200px;
+		top: 110px;
+		font-size: 50px;
+}
+
+#lescours:hover	{
+				color: #44bd32;
+				font-family: fira sans;
+				font-weight: bold;
+				font-size: 50px;
+				position: relative;
+				transition: 0.5s;
+				cursor: pointer;
+				left: 200px;
+				top: 110px;
+}
